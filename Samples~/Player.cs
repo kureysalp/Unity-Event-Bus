@@ -6,7 +6,6 @@ namespace UnityEventBus
     public class Player : MonoBehaviour
     {
         private int _health = 100;
-
         private bool isDead;
         
         private void OnEnable()
