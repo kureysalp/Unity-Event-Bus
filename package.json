@@ -1,0 +1,20 @@
+﻿{
+  "name": "com.kureysalp.unityeventbus",
+  "version": "1.0.0",
+  "displayName": "Unity Event Bus",
+  "description": "A generic event bus for unity",
+  "documentationUrl": "https://github.com/kureysalp/Unity-Event-Bus",
+  "licensesUrl": "https://github.com/kureysalp/Unity-Event-Bus",
+  "author": {
+    "name": "Kureyş Alp Kılıç",
+    "email": "kureysalp@gmail.com",
+    "url": "https://github.com/kureysalp"
+  },
+  "samples":  [
+    {
+      "displayName": "Sample",
+      "description": "Basic sample with an enemy and player.",
+      "path": "Samples~"
+    }
+  ]
+}
